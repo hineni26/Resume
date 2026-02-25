@@ -26,7 +26,7 @@ Aug 2023 – May 2027
 
 ## 🚀 Projects Highlighted
 
-### 📊 Customer Operations Analytics Dashboard
+### Customer Operations Analytics Dashboard
 - Built an end-to-end customer analytics pipeline handling **20K+ support tickets**
 - Data cleaning, transformation, and KPI reporting
 - Dashboard-driven operational insights
@@ -35,7 +35,7 @@ Aug 2023 – May 2027
 
 ---
 
-### 📈 Sales Performance & Incentive Analytics
+### Sales Performance & Incentive Analytics
 - Revenue trend analysis and incentive optimization
 - KPI design and sales efficiency analysis
 - Dashboard-ready analytics datasets
@@ -44,7 +44,7 @@ Aug 2023 – May 2027
 
 ---
 
-### ⚙️ Process Optimization & Workflow Analytics
+### Process Optimization & Workflow Analytics
 - Identified workflow bottlenecks using data analysis
 - Built dashboards for process performance monitoring
 - Supported decision-making through analytics
@@ -53,7 +53,7 @@ Aug 2023 – May 2027
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Languages
 Java • Python • C/C++ • SQL (Oracle) • Shell Script • YAML
@@ -66,10 +66,6 @@ pandas • NumPy • Matplotlib • Scikit-learn
 
 ---
 
-## 📌 Notes
+## Notes
 
 This repository serves as a central place to access my updated resume and quickly explore my technical background.
-
----
-
-If you want, I can also give you a **🔥 recruiter-style GitHub README version** (more modern layout with badges + icons) — that one usually looks very impressive for internships.
