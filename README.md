@@ -24,7 +24,7 @@ Aug 2023 – May 2027
 
 ---
 
-## 🚀 Projects Highlighted
+## Projects Highlighted
 
 ### Customer Operations Analytics Dashboard
 - Built an end-to-end customer analytics pipeline handling **20K+ support tickets**
